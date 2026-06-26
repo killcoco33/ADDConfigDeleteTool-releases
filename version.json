@@ -1,0 +1,6 @@
+{
+  "version": "0.2.0",
+  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.2.0/ADDConfigDeleteTool.exe",
+  "sha256": "5A024C8A290BD7DCCFEAAE1570AD76C167A0FD6B521925D15988ED0AE89754D0",
+  "changelog": "Add online update support, MiSSH directory selection, rolling key input, vehicle connection status, and steering zero-offset deletion workflow."
+}
