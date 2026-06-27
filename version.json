@@ -1,7 +1,7 @@
 ﻿{
   "version": "0.3.0",
   "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.3.0/ADDConfigDeleteTool.exe",
-  "sha256": "8DA32309A2827F3D590DCAB5155DA9F58CA6FE52AAB833F63EF1CC52BA9AC3C1",
+  "sha256": "83B7D3716BA9DC2E4894E5080621BA557DED2CAECE4C4106E69A599DC51AA135",
   "changelog": "Add independent local environment configuration, validation, and repair entry points."
 }
 
