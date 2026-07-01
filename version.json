@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.2/ADDConfigDeleteTool.exe",
-  "sha256": "39CD9C0C4FCBECC87FCAD9736804BDF51C07079B02756F042599C11581D91A96",
-  "changelog": "Correct ADD1/ADD2/ADD3 interpretation from the Feishu document: SU7 dual-Orin is the ADD1 method bound to MS11ADD1, with the documented 169.254.65.100 second-hop deletion inside the same ADD1 flow; YU7 Thor remains MX11ADD3."
+  "version": "0.4.3",
+  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.3/ADDConfigDeleteTool.exe",
+  "sha256": "38D7B63C5F4C8C47E578C84FC2AEB5BC0D6A22819B12A65CD95D12C8E9D2B303",
+  "changelog": "Align with the latest Feishu ADD markers: SU7 dual-Orin (-2/-5/-U) uses ADD1 via MS11ADD1 with the documented 169.254.65.100 second-hop deletion, SU7 single-Orin (-1) uses ADD2 via MS11ADD2, and YU7 Thor (26A) remains ADD3 via MX11ADD3."
 }
