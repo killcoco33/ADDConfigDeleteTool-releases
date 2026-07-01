@@ -1,7 +1,6 @@
-﻿{
-  "version": "0.4.0",
-  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.0/ADDConfigDeleteTool.exe",
-  "sha256": "EFC564DD3EDEBF0A20B0E2E9955B3107BF03940C13D63EA6AB0E467B9FF176D1",
-  "changelog": "Bind vehicle model selection to MiSSH profile and ADD nodes; add SU7 dual-Orin and YU7 Thor mappings from the updated Feishu document."
+{
+  "version": "0.4.1",
+  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.1/ADDConfigDeleteTool.exe",
+  "sha256": "21AFF1A0CFE033836FC508B5CF76143CDF6000FC6258F69B669CB593025C02E9",
+  "changelog": "Correct SU7 dual-Orin binding from the updated Feishu ADD1/ADD2/ADD3 annotations: ADD2 now runs through ADD1 nested SSH to 169.254.65.100; keep YU7 Thor on MX11ADD3."
 }
-
