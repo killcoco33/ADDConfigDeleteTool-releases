@@ -1,7 +1,7 @@
 ﻿{
-  "version": "0.3.0",
-  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.3.0/ADDConfigDeleteTool.exe",
-  "sha256": "83B7D3716BA9DC2E4894E5080621BA557DED2CAECE4C4106E69A599DC51AA135",
-  "changelog": "Add independent local environment configuration, validation, and repair entry points."
+  "version": "0.4.0",
+  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.0/ADDConfigDeleteTool.exe",
+  "sha256": "EFC564DD3EDEBF0A20B0E2E9955B3107BF03940C13D63EA6AB0E467B9FF176D1",
+  "changelog": "Bind vehicle model selection to MiSSH profile and ADD nodes; add SU7 dual-Orin and YU7 Thor mappings from the updated Feishu document."
 }
 
