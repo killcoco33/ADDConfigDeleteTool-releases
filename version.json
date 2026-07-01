@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.1/ADDConfigDeleteTool.exe",
-  "sha256": "21AFF1A0CFE033836FC508B5CF76143CDF6000FC6258F69B669CB593025C02E9",
-  "changelog": "Correct SU7 dual-Orin binding from the updated Feishu ADD1/ADD2/ADD3 annotations: ADD2 now runs through ADD1 nested SSH to 169.254.65.100; keep YU7 Thor on MX11ADD3."
+  "version": "0.4.2",
+  "download_url": "https://github.com/killcoco33/ADDConfigDeleteTool-releases/releases/download/v0.4.2/ADDConfigDeleteTool.exe",
+  "sha256": "39CD9C0C4FCBECC87FCAD9736804BDF51C07079B02756F042599C11581D91A96",
+  "changelog": "Correct ADD1/ADD2/ADD3 interpretation from the Feishu document: SU7 dual-Orin is the ADD1 method bound to MS11ADD1, with the documented 169.254.65.100 second-hop deletion inside the same ADD1 flow; YU7 Thor remains MX11ADD3."
 }
